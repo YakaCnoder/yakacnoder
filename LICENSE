@@ -1,0 +1,73 @@
+HARDAM Queue PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 YakaCnoder. All Rights Reserved.
+
+This software and associated documentation files (the "Software"), including
+but not limited to source code, object code, architecture, database schema,
+user interface designs, and written documentation, are the exclusive
+intellectual property of YakaCnoder ("the Developer").
+
+1. NO OPEN-SOURCE LICENSE GRANTED
+
+This Software is NOT open-source and is NOT licensed under any open-source,
+permissive, or copyleft license (including but not limited to MIT, Apache,
+GPL, or BSD licenses). No rights are granted to the public at large.
+
+2. RESTRICTED LICENSE FOR LICENSED CLIENTS
+
+Use of the Software is permitted only by institutions or individuals who have
+entered into a written license, deployment, or service agreement with the
+Developer ("Licensed Client"). Any such use is governed by the terms of that
+agreement and by the accompanying TERMS_OF_SERVICE.md.
+
+A Licensed Client is granted a limited, non-exclusive, non-transferable,
+non-sublicensable right to install and use the Software solely for internal
+operational purposes at the licensed institution(s) named in their agreement.
+
+3. PROHIBITED ACTIONS
+
+Except as explicitly authorized in writing by the Developer, no person or
+entity may:
+
+  a. Copy, reproduce, distribute, sell, lease, rent, or sublicense the
+     Software or any portion of it;
+  b. Modify, adapt, translate, reverse-engineer, decompile, or disassemble
+     the Software, except to the extent such restriction is prohibited by
+     applicable law;
+  c. Remove, obscure, or alter any copyright, trademark, or proprietary
+     notice contained in the Software;
+  d. Use the Software to develop a competing product or service;
+  e. Deploy the Software at any institution or site not explicitly covered
+     by a valid, active license agreement with the Developer.
+
+4. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE DEVELOPER DOES NOT
+WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE OF
+SECURITY VULNERABILITIES, THOUGH REASONABLE CARE IS TAKEN AS DESCRIBED IN
+SECURITY.md.
+
+5. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE, EXCEPT AS OTHERWISE EXPRESSLY AGREED IN A SIGNED
+CLIENT CONTRACT.
+
+6. TERMINATION
+
+Any license granted under a separate client agreement may be terminated in
+accordance with the terms of that agreement. Upon termination, all rights to
+use the Software cease, except as otherwise specified in the governing
+contract.
+
+7. GOVERNING LAW
+
+This license is governed by the laws of the Republic of the Philippines.
+
+8. CONTACT
+
+For licensing inquiries, contact: YakaCnoder@gmail.com
